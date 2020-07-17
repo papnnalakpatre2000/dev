@@ -1,0 +1,26 @@
+hr {
+    border-color: grey;
+    border-width: 10px;
+    border-style: dotted none none;
+    width: 10%;
+}
+
+h1 {
+    color: #66BFBF;
+}
+
+h3 {
+    color: #66BFBF;
+}
+
+body {
+    background-color: #D2D3E5;
+}
+
+#gold:hover {
+    color: chocolate;
+}
+
+#black:hover {
+    font-size: 30px;
+}
